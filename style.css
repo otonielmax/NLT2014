@@ -1,0 +1,68 @@
+header.principal {
+    background: url("equipo-genser.jpg") no-repeat 0 25%;
+    display: block;
+    height: 250px;
+    margin: 0px;
+    width: 100%;
+}
+
+section.info-superior {
+    display: inline-block;
+    float: left;
+    padding: 5% 5%;
+    width: 40%;
+}
+
+div.logo {
+    width: 250px;
+}
+
+img.imagen-logo {
+    width: 100%;
+}
+
+section.info-superior-derecha {
+    /* background: url("fondo_titulo.png"); */
+    display: inline-block;
+    float: left;
+    padding: 5% 5%;
+    width: 40%;
+}
+
+header.titulos {
+    text-align: right;
+}
+
+h1 {
+    font-size: 40px;
+    margin: 0px;
+    text-align: left;
+}
+
+h2 {
+    font-size: 35px;
+    margin: 0px;
+}
+
+nav.principal {
+    background: rgb(96, 239, 37);
+    display: block;
+    height: 50px;
+    margin: 0%;
+    width: 100%;
+}
+
+ul {
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+
+li {
+    display: inline-block;
+    float: left;
+    font-family: Arial;
+    font-size: 18px;
+    list-style: none;
+    padding: 14px 14px;
+}

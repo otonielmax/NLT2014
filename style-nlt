@@ -1,0 +1,16 @@
+nav.menu-superior {
+    background: rgb(96, 239, 37);
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#CCC), to(#FFF));
+    display: block;
+    width: 100%;
+}
+
+nav.menu-superior ul {
+    list-style: none;
+}
+
+nav.menu-superior ul li {
+    display: inline-block;
+    float: left;
+    font-family: Verdana, Arial, Tahoma, sans-serif;
+}
